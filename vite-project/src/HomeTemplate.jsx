@@ -18,7 +18,7 @@ const HomeTemplate = () => {
           <input type="text" />
         </div>
         {/* button */}
-        <button className="bg-gray-100 opacity-5 "> Start Selecting </button>
+        <button className="bg-white border-4 "> Start Selecting </button>
       </div>
     </div>
   );
